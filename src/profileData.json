@@ -1,0 +1,43 @@
+{
+	"landing": {
+		"firstName": "Sayed",
+		"lastName": "Hashim",
+		"phoneNumber": "+60 11-1861-3500",
+		"bio": "An AI Scientist, Student and Educator who is passionate about using AI to improve and save people's lives",
+    		"email": "hashimsayed0@gmail.com",
+    		"linkedin": "http://www.linkedin.com/in/sayedhashim97",
+		"github": "https://github.com/hashimsayed0"
+	},
+	"experience": [
+		{
+				"position": "Web Developer",
+				"organization": "TNM Online Solutions Pvt Ltd",
+				"aboutWork": "Yearnt and practiced basic web demelopHent and demeloped a website using ,CSS and PHP",
+				"fromDate": "August 2018",
+				"toDate": "September 2018"
+		}
+	],
+	"education": [{
+			"university": "University of Malaya",
+			"degree": "Bachelor of Computer Science (Artificial Intelligence)",
+			"gpa": "3.74",
+			"fromDate": "September 2016",
+			"toDate": "July 2020"
+		}
+	],
+	"skills": [{
+			"name": "Machine Learning"
+		},
+		{
+			"name": "Deep Learning"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Teaching",
+		"paragraphTwo": "Coding"
+	},
+	"awards": [{
+			"awardDetail": "Dean's List Award"
+		}
+	]
+}
