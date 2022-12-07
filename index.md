@@ -4,47 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning in Cancer Genomics:** self-supervised learning, cancer type classification, cancer treatment
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2022]** Our paper on self-supervised learning for multi-omics data is accepted at PSB 23.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Self-omics: A Self-supervised Learning Framework for Multi-omics Cancer**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Sayed Hashim**, Karthik Nandakumar, Mohammad Yaqub
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Pacific Symposium on Biocomputing. **PSB 2023**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0025)] [[Code](https://github.com/hashimsayed0/self-omics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **SubOmiEmbed: Self-supervised Representation Learning of Multi-omics Data for Cancer Type Classification**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Sayed Hashim**, Muhammad Ali, Karthik Nandakumar, Mohammad Yaqub
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  10th International Conference on Bioinformatics and Computational Biology. **ICBCB 2022**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://ieeexplore.ieee.org/document/9802478)] [[Code](https://github.com/hashimsayed0/SubOmiEmbed)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **TransformNet: Self-supervised representation learning through predicting geometric transformations**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Sayed Hashim**, Muhammad Ali
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  19th International Bhurban Conference on Applied Sciences and Technology. **IBCAST 2022**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+  [[PDF](https://arxiv.org/pdf/2202.04181.pdf)] [[Code](https://github.com/hashimsayed0/TransformNet)]
