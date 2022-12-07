@@ -9,11 +9,15 @@ I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence 
 ## Education
 
 - **Bachelor of Computer Science (Artificial Intelligence)**
+  <br>
   **University of Malaya**, Kuala Lumpur, Malaysia
+  <br>
   Sep. 2016 - Aug. 2020
  
 - **Master of Science in Machine Learning**
+  <br>
   **Mohamed Bin Zayed University of Artificial Intelligence**, Abu Dhabi, UAE
+  <br>
   Jan. 2021 - Sec. 2022
 
 ## Research Interests
