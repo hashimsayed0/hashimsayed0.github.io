@@ -6,9 +6,19 @@ layout: homepage
 
 I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).
 
+## Education
+
+- **Bachelor of Computer Science (Artificial Intelligence)**
+  **University of Malaya**, Kuala Lumpur, Malaysia
+  Sep. 2016 - Aug. 2020
+ 
+- **Master of Science in Machine Learning**
+  **Mohamed Bin Zayed University of Artificial Intelligence**, Abu Dhabi, UAE
+  Jan. 2021 - Sec. 2022
+
 ## Research Interests
 
-- **Machine Learning in Cancer Genomics:** self-supervised learning, cancer type classification, cancer treatment
+- **Machine Learning in Cancer Genomics:** self-supervised learning, cancer type classification, cancer treatment.
 
 ## News
 
@@ -30,7 +40,7 @@ I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence 
   <br>
   10th International Conference on Bioinformatics and Computational Biology. **ICBCB 2022**.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9802478)] [[Code](https://github.com/hashimsayed0/SubOmiEmbed)]
+  [[PDF](https://ieeexplore.ieee.org/document/9802478)] [[Code](https://github.com/hashimsayed0/SubOmiEmbed)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **TransformNet: Self-supervised representation learning through predicting geometric transformations**
   <br>
@@ -38,4 +48,4 @@ I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence 
   <br>
   19th International Bhurban Conference on Applied Sciences and Technology. **IBCAST 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2202.04181.pdf)] [[Code](https://github.com/hashimsayed0/TransformNet)]
+  [[PDF](https://arxiv.org/pdf/2202.04181.pdf)] [[Code](https://github.com/hashimsayed0/TransformNet)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
