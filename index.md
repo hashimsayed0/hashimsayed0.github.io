@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).
+I am a machine learning (ML) enthusiast passionate about saving and improving people’s lives with AI. I currently research on applying machine learning to solve problems in cancer.
 
 ## Education
 
@@ -18,7 +18,7 @@ I am an MSc. student at Mohamed Bin Zayed University of Artificial Intelligence 
   <br>
   **Mohamed Bin Zayed University of Artificial Intelligence**, Abu Dhabi, UAE
   <br>
-  Jan. 2021 - Sec. 2022
+  Jan. 2021 - Dec. 2022
 
 ## Research Interests
 
