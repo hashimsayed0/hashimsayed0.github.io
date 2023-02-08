@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a machine learning (ML) enthusiast passionate about saving and improving people’s lives with AI. I currently research on building machine learning methods, such as self-supervised learning (SSL) methods, to solve problems in cancer.
+I am a machine learning (ML) enthusiast passionate about saving and improving people’s lives. I conduct research on building machine learning methods, such as self-supervised learning (SSL) methods, to solve problems in cancer.
 
 ## Education
 
