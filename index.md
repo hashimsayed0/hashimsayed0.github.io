@@ -8,17 +8,23 @@ I am a machine learning (ML) enthusiast passionate about saving and improving pe
 
 ## Education
 
-- **Bachelor of Computer Science (Artificial Intelligence)**
+- **PhD in Safe AI**
   <br>
-  **University of Malaya**, Kuala Lumpur, Malaysia
+  **University of York**, York, UK
   <br>
-  Sep. 2016 - Aug. 2020
- 
+  Sep. 2024 - Present
+
 - **Master of Science in Machine Learning**
   <br>
   **Mohamed Bin Zayed University of Artificial Intelligence**, Abu Dhabi, UAE
   <br>
   Jan. 2021 - Dec. 2022
+  
+- **Bachelor of Computer Science (Artificial Intelligence)**
+  <br>
+  **University of Malaya**, Kuala Lumpur, Malaysia
+  <br>
+  Sep. 2016 - Aug. 2020
 
 ## Research Interests
 
